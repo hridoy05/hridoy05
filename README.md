@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hridoy05" alt="hridoy05" /></a> </p>
 
-- 🌱 I’m currently learning **Nextjs, Typescript**
+- 🌱 I’m currently learning **Nextjs,**PHP, Laravel**
 
 - 👨‍💻 All of my projects are available at [https://hridoy-banik-portfolio.netlify.app/](https://hridoy-banik-portfolio.netlify.app/)
 
