@@ -26,4 +26,3 @@
 <a href="https://www.leetcode.com/alchemist05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="alchemist05" height="30" width="40" /></a>
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hridoy05&show_icons=true&locale=en" alt="hridoy05" /></p>
