@@ -10,19 +10,3 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hridoy05" alt="hridoy05" /></a> </p>
 
 - 🌱 I’m currently learning **Microservice,**DevOps,**Cloud, 
-
-- 👨‍💻 All of my projects are available at [https://hridoy-banik-portfolio.netlify.app/](https://hridoy-banik-portfolio.netlify.app/)
-
-- 💬 Ask me about **react,expressjs,REST API**
-
-- 📫 How to reach me **hridoy.banik71@gmail.com**
-
-- ⚡ Fun fact **touch with tech,watching football,**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/hridoybanik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hridoybanik" height="30" width="40" /></a>
-<a href="https://medium.com/@hridoybanik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@hridoybanik" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/alchemist05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="alchemist05" height="30" width="40" /></a>
-</p>
-
