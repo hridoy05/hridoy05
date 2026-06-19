@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Hridoy Banik</h1>
-<h3 align="center">I'm an full-stack developer. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code.</h3>
+<h3 align="center">I'm a Software Engineer. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code.</h3>
 <img align="center" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
 <br/>
