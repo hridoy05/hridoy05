@@ -9,4 +9,4 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hridoy05" alt="hridoy05" /></a> </p>
 
-- 🌱 I’m currently learning **Microservice,**DevOps,**Cloud, 
+- 🌱 I’m currently learning **AI Engineering,Microservice,**DevOps,**Cloud, 
